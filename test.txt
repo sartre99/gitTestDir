@@ -1,1 +1,2 @@
-"This is second file version." 
+"This is second file version."
+"Now test ended!"
